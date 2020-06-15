@@ -24,7 +24,7 @@
 
 ## 🏁 Sobre <a name = "about"></a>
 
-- Sistema desenvolvido com o propósito de estudo sobre o primeiro módulo do Bootcamp GoStack 12.0 da Rocketseat focado em Node.js, abordando conceitos importantes sobre API REST e seus métodos HTTP tais como GET, POST, PUT e DELETE.
+- Sistema desenvolvido com o propósito de estudo sobre o primeiro módulo do Bootcamp GoStack 12.0 da Rocketseat focado em Node.js, abordando conceitos importantes sobre API REST e seus métodos HTTP tais como GET, POST, PUT e DELETE. 
 ## 🏁 Inicializando a aplicação <a name = "getting_started"></a>
 
 - O Back-End da aplicação foi desenvolvido em Node JS com o framework Express.
